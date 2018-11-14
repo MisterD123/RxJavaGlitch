@@ -1,5 +1,5 @@
 # RxJavaGlitch
-Minimal Example Application that demonstrates the non-synchronous propagation of Rx using RxJava
+Minimal Example Application that demonstrates the non-synchronous propagation of Rx using RxJava.
 
 ## Building and Running
 The included build scribt is for SBT.
