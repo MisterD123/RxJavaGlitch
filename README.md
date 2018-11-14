@@ -3,7 +3,8 @@ Minimal Example Application that demonstrates the non-synchronous propagation of
 
 ## Building and Running
 The included build scribt is for SBT.
-You can obtain SBT here: https://www.scala-sbt.org
+In general, you can obtain SBT here: https://www.scala-sbt.org
+On Unix systems, you can skip this and just run the included ./sbt file.
 
 The application is interactive in that you are prompted for number inputs.
 Running the application in SBT's interactive mode doesn't work well because output is buffered line-wise, and input is not echoed.
